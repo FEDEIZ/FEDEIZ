@@ -37,10 +37,31 @@ Here are some ideas to get you started:
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/6.png"></a>
 </p>
 
+<p>Tech & Tools used for this projects:</p>
+<ul>
+    <li>React - Redux Toolkit</li>
+    <li>CSS for styling</li>
+    <li>Node Js & Express</li>
+    <li>Sequelize & PostgresSQL</li>
+    <li>Auth0 services for authentication</li>
+    <li>Mercado Pago services for buying</li>
+    <li>Cloudinary services for images storing</li>
+    <li>Own server for deploy</li>
+</ul>
+
 ### Countries web
 
-<p> In this website you can create activities turistics cadrs for differents countries before you go on holidays, so you can check them from any where you want. You can also see the countries details, that brings an external countries API"
+<p> In this website you can create activities turistics cadrs for differents countries before you go on holidays, so you can check them from any where you want. You can also see the countries details, that brings an external countries API
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/7.png"></a>
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/8.png"></a>
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/9.png"></a>
 </p>
+
+<p>Tech & Tools used for this projects:</p>
+<ul>
+    <li>React - Redux</li>
+    <li>CSS for styling</li>
+    <li>Node Js & Express</li>
+    <li>Sequelize & PostgresSQL</li>
+    <li>Heroku services for deploy</li>
+</ul>

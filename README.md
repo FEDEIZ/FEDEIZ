@@ -63,6 +63,18 @@ Here are some ideas to get you started:
 
 [**¡Visit the Tecnomerch web in here!**](https://6evi.duckdns.org:1337/)
 
+<p>My great team:
+    <ul>
+        <li><a href="https://github.com/chrisvill2312">Chris</a></li>
+        <li><a href="https://github.com/francoSerafini">Fran</a></li>
+        <li><a href="https://github.com/MatiVillagra98">Mati</a></li>
+        <li><a href="https://github.com/ProfesorJand">Jorge</a></li>
+        <li><a href="https://github.com/ramijujuy">Rama</a></li>
+        <li><a href="https://github.com/villajul">Julio</a></li>
+    </ul>
+
+</p>
+
 ### 🌎 Countries web
 
 <p> In this website you can create activities turistics cadrs for differents countries before you go on holidays, so you can check them from any where you want. You can also see the countries details, that brings an external countries API
@@ -90,3 +102,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/federicoiz93/" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/linkedin-icon.png"> 
 <a href="mailto:ing.finterlandi@gmail.com" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/gmail-icon.png">
 </span>
+
+https://github.com/ramijujuy
+https://github.com/villajul

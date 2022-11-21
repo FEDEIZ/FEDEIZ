@@ -80,5 +80,5 @@ Here are some ideas to get you started:
 
 <span >
 <a href="https://www.linkedin.com/in/federicoiz93/" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:ing.finterlandi@gmail.com" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/gmail.png">
+<a href="mailto:ing.finterlandi@gmail.com" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/gmail-icon.png">
 </span>

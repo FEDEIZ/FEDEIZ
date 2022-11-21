@@ -28,9 +28,19 @@ Here are some ideas to get you started:
 
 ## My projects
 
-<p> Tecnomerch eCommerce:
+### Tecnomerch
+
+<p> Tech store where you can get authenticate, buy differents products and fill your personal data so the ship can arrive to your home. The buy can be done througth Mercado Pago, a secure and well know plataform to do money transactions.
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/3.png"></a>
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/4.png"></a>
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/5.png"></a>
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/6.png"></a>
+</p>
+
+### Countries web
+
+<p> In this website you can create activities turistics cadrs for differents countries before you go on holidays, so you can check them from any where you want. You can also see the countries details, that brings an external countries API"
+  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/7.png"></a>
+  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/8.png"></a>
+  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/9.png"></a>
 </p>

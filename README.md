@@ -29,14 +29,8 @@ Here are some ideas to get you started:
 ## My projects
 
 <p> Tecnomerch eCommerce:
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce1.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce2.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce3.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce4.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce5.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce6.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce7.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce8.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce9.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/images/eCommerce10.png"></a>
+  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/3.png"></a>
+  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/4.png"></a>
+  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/5.png"></a>
+  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/6.png"></a>
 </p>

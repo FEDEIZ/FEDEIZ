@@ -1,5 +1,9 @@
 ![Hi, i'm Fede!](gif.gif)
 
+## Full stack developer and Electronic Engineer from 🇦🇷
+
+<hr/>
+
 ### Hi there, welcome to my gitHub profile 👋
 
 </br>
@@ -7,7 +11,7 @@
 
 </br>
 
-## Languages and Tools:
+## 🔧 Languages and Tools:
 
 <hr/>
 
@@ -26,13 +30,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🇦🇷
+🔧
+🚀
+🛒
   -->
 
-## My projects
+## 🚀 My projects
 
 <hr/>
 
-### Tecnomerch
+### 🛒 Tecnomerch
 
 <p> Tech store where you can get authenticate, buy differents products and fill your personal data so the ship can arrive to your home. The buy can be done througth Mercado Pago, a secure and well know plataform to do money transactions.
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/3.png"></a>
@@ -55,7 +63,7 @@ Here are some ideas to get you started:
 
 [**¡Visit the Tecnomerch web in here!**](https://6evi.duckdns.org:1337/)
 
-### Countries web
+### 🌎 Countries web
 
 <p> In this website you can create activities turistics cadrs for differents countries before you go on holidays, so you can check them from any where you want. You can also see the countries details, that brings an external countries API
   <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/7.png"></a>
@@ -79,6 +87,6 @@ Here are some ideas to get you started:
 <hr/>
 
 <span >
-<a href="https://www.linkedin.com/in/federicoiz93/" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="https://www.linkedin.com/in/federicoiz93/" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/linkedin-icon.png"> 
 <a href="mailto:ing.finterlandi@gmail.com" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/gmail-icon.png">
 </span>

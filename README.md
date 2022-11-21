@@ -1,4 +1,4 @@
-![](gif.gif)
+![Hi, i'm Fede!](gif.gif)
 
 ### Hi there, welcome to my gitHub profile 👋
 
@@ -9,7 +9,9 @@
 
 ## Languages and Tools:
 
-![](./images/techs.png)
+<hr/>
+
+![My skills](./images/techs.png)
 
 <!--
 **FEDEIZ/FEDEIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +29,8 @@ Here are some ideas to get you started:
   -->
 
 ## My projects
+
+<hr/>
 
 ### Tecnomerch
 
@@ -49,6 +53,8 @@ Here are some ideas to get you started:
     <li>Own server for deploy</li>
 </ul>
 
+[**¡Visit the Tecnomerch web in here!**](https://6evi.duckdns.org:1337/)
+
 ### Countries web
 
 <p> In this website you can create activities turistics cadrs for differents countries before you go on holidays, so you can check them from any where you want. You can also see the countries details, that brings an external countries API
@@ -65,3 +71,14 @@ Here are some ideas to get you started:
     <li>Sequelize & PostgresSQL</li>
     <li>Heroku services for deploy</li>
 </ul>
+
+[**¡Visit the Countries web in here!**](https://countries-client-henry-fedeiz.herokuapp.com/)
+
+## 📫 ¿How you can reach me?
+
+<hr/>
+
+<span >
+<a href="https://www.linkedin.com/in/federicoiz93/" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/linkedin.png"> &nbsp;
+<a href="mailto:ing.finterlandi@gmail.com" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/gmail.png">
+</span>

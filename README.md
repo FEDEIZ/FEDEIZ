@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     <li>Own server for deploy</li>
 </ul>
 
-[**¡Visit the Tecnomerch web in here!**](https://6evi.duckdns.org:1337/)
+[**¡Visit the Tecnomerch web in here!**](https://tecnomerch.christianvillegas.com/)
 
 <p>My great team:
     <ul>

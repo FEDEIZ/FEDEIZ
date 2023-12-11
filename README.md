@@ -4,10 +4,13 @@
 
 <hr/>
 
-### Hi there, welcome to my gitHub profile 👋
+### Tech Lead on YvY Project - Fundacion Plan 21 👋
 
 </br>
-<p>🔭 I’m currently on the final steps with a eCommerce web 2.0, with my friends from Henry Bootcamp from Argentina. I'm a Full Stack Developer, but I work better on the back side 😄</p>
+
+<p>🔭 I currently work as a technical leader in a project called YvY App of Fundacion Plan 21. It is a free web application designed to offer solutions for regenerative agriculture, with the aim of facilitating small and medium-sized producers in Latin America to digitalize their production. on farms with a focus on regenerative and sustainable agriculture, complying with international standards.
+
+YvY was a finalist in IBM's Call For Code competition launched with the objective of encouraging organizations to build solutions to reduce environmental impact in the world. Together with IBM and the Plan 21 Foundation team, we developed the YvY application, being the tech lead of a development team with members of IBM and private volunteers.</p>
 
 </br>
 
@@ -15,28 +18,32 @@
 
 <hr/>
 
-![My skills](./images/techs.png)
+![My skills](./images/full_stack.png)
 
-<!--
-**FEDEIZ/FEDEIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-🇦🇷
-🔧
-🚀
-🛒
-  -->
 
 ## 🚀 My projects
+
+<hr/>
+
+### YvY App - A solution for Regenerative Agriculture
+Check this tutorials video to understand YvY App and feel free to create an account to use it!
+
+[![user guide video](images/yvy-home.png)](https://www.youtube.com/watch?v=HR6NU4RYWkE&list=PLN0TNyZlupIT-AC3FRB1ojSFG6fCCdd66&index=1)
+<p>
+
+[Here's the free web app YvY!](https://yvyapp.plan21.org/)
+
+<p>Tech & Tools used for YvY:</p>
+<ul>
+    <li>React - Redux with Material UI</li>
+    <li>Node Js & Express with Typescript</li>
+    <li>TypeORM & PostgresSQL</li>
+    <li>Docker</li>
+    <li>IBM Cloud services for Containers and Cloud Object Storage</li>
+    <li>Github Action</li>
+    <li>Integration: Meteostat and Weather Api as External API's</li>
+    <li>AI: Wattson Chat Assistant as Chat-bot</li>
+</ul>
 
 <hr/>
 
@@ -75,24 +82,6 @@ Here are some ideas to get you started:
 
 </p>
 
-### 🌎 Countries web
-
-<p> In this website you can create activities turistics cadrs for differents countries before you go on holidays, so you can check them from any where you want. You can also see the countries details, that brings an external countries API
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/7.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/8.png"></a>
-  <a><img src="https://github.com/FEDEIZ/FEDEIZ/blob/main/images/9.png"></a>
-</p>
-
-<p>Tech & Tools used for this projects:</p>
-<ul>
-    <li>React - Redux</li>
-    <li>CSS for styling</li>
-    <li>Node Js & Express</li>
-    <li>Sequelize & PostgresSQL</li>
-    <li>Heroku services for deploy</li>
-</ul>
-
-[**¡Visit the Countries web in here!**](https://countries-client-henry-fedeiz.herokuapp.com/)
 
 ## 📫 ¿How you can reach me?
 
@@ -102,6 +91,3 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/federicoiz93/" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/linkedin-icon.png"> 
 <a href="mailto:ing.finterlandi@gmail.com" ><img width="5%" src="https://github.com/FEDEIZ/FEDEIZ/blob/main/logos/gmail-icon.png">
 </span>
-
-https://github.com/ramijujuy
-https://github.com/villajul
